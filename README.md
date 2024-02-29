@@ -1,7 +1,7 @@
-# multiverse_analysis
+# Open Sciemce
 
-Presentation for ITRN @ UniVR
-1/2/2023
+Presentation for UniVR
+01/03/2024
 by Michele Scandola
 
 In order to run this presentation, please download all the directory and install:
