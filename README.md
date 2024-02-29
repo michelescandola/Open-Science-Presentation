@@ -1,4 +1,4 @@
-# Open Sciemce
+# Open Science
 
 Presentation for UniVR
 01/03/2024
